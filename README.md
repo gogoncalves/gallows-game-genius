@@ -39,10 +39,10 @@
 </ul>
 
 <h2>Autor</h2>
-<p>Gustavo Goncalves</p>
+<a href="https://github.com/gogoncalves"><p>Gustavo Goncalves</p></a>
 
 <h2>Contribuições</h2>
 <p>Contribuições são sempre bem-vindas! Se você encontrar algum problema ou quiser adicionar uma nova funcionalidade, sinta-se livre para abrir um pull request.</p>
 
 <h2>Licença</h2>
-<p>Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE.md para obter detalhes.</p>
+<p>Este projeto está licenciado sob a Licença MIT - consulte o arquivo <a href="https://github.com/gogoncalves/crossword-puzzle-game/blob/main/LICENSE.md">LICENSE</a> para obter detalhes.</p>
