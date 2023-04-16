@@ -1,6 +1,6 @@
-<h1>Gallows Game</h1>
+<h1>GGG - Gallows Game Genius</h1>
 
-<p>O Gallows Game é um jogo em que o jogador deve adivinhar uma palavra relacionada à arquitetura computacional antes de completar o desenho da forca. O jogo tem uma lista de palavras pré-definidas que incluem termos como CPU, ULA, registradores, RAM, dual core e quad core.</p>
+<p>O Gallows Game Genius é um jogo em que o jogador deve adivinhar uma palavra relacionada à arquitetura computacional antes de completar o desenho da forca. O jogo tem uma lista de palavras pré-definidas que incluem termos como CPU, ULA, registradores, RAM, dual core e quad core.</p>
 
 <p>Quando o jogo é iniciado, uma palavra secreta é selecionada aleatoriamente e apresentada na tela com um traço para cada letra. O jogador pode clicar em uma letra do teclado para tentar adivinhar uma letra que esteja na palavra secreta. Se o jogador acertar a letra, ela é revelada na palavra secreta. Caso contrário, o desenho da forca é desenhado na tela.</p>
     
@@ -44,4 +44,4 @@
 <p>Contribuições são sempre bem-vindas! Se você encontrar algum problema ou quiser adicionar uma nova funcionalidade, sinta-se livre para abrir um pull request.</p>
 
 <h2>Licença</h2>
-<p>Este projeto está licenciado sob a Licença MIT - consulte o arquivo <a href="https://github.com/gogoncalves/gallows-game/blob/main/LICENSE.md">LICENSE</a> para obter detalhes.</p>
+<p>Este projeto está licenciado sob a Licença MIT - consulte o arquivo <a href="https://github.com/gogoncalves/gallows-game-genius/blob/main/LICENSE.md">LICENSE</a> para obter detalhes.</p>
