@@ -21,11 +21,11 @@
 <ol>
   <li>Baixe ou clone este repositório para sua máquina local.</li>
   <li>Abra o arquivo index.html em seu navegador.</li>
-  <li>Escolha uma categoria dentre as disponíveis.</li>
+  <li>Analise a dica exibida e pense na resposta correta.</li>
   <li>Clique em uma das letras do teclado virtual para escolher uma letra.</li>
   <li>Se a letra escolhida estiver na palavra secreta, ela será mostrada na palavra.</li>
-  <li>Se a letra escolhida não estiver na palavra secreta, o desenho do "gallows" será desenhado uma parte a mais.</li>
-  <li>O jogo termina quando todas as letras da palavra secreta forem reveladas ou quando o desenho do "gallows" estiver completo.</li>
+  <li>Se a letra escolhida não estiver na palavra secreta, o desenho da forca será desenhada com uma parte a mais.</li>
+  <li>O jogo termina quando todas as letras da palavra secreta forem reveladas ou quando o desenho da forca estiver completo.</li>
 </ol>
 
 <h2>Características do jogo</h2>
